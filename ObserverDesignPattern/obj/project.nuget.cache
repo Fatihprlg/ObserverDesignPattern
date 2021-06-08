@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKuCWo4nitoPtg9EwRG7AXRXAMuF4+JTgVEAukrtLbEO/ZO5edJw8pOhBN39GGN1JNVHh9QzWw1Cv/wtioBcoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatih\\source\\repos\\ObserverDesignPattern\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
